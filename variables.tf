@@ -2,7 +2,7 @@
 
 variable resourceGroupName {
   type=string
-  default="JCPLC-GOT-CORP-NON-PROD-001"
+  default="RG-<>Development-0001"
 }
 variable location {
   type=string
