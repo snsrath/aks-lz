@@ -2,7 +2,7 @@
 
 variable resourceGroupName {
   type=string
-  default="RG-<>Development-0001"
+  default="RG-iaai-Development-0001"
 }
 variable location {
   type=string
